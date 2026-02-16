@@ -32,4 +32,4 @@ ID: BUG-001
 - **Разрешение экрана:** 1920x1080
 
 ## Дополнительные материалы
-**[Скриншот места проблемы](https://github.com/St3amOne/Portfolio/blob/main/bug-report-001-ss1.png?raw=true)**
+**[Скриншот места проблемы](https://github.com/St3amOne/Portfolio/blob/main/bug-report-001-ss1.png)**
