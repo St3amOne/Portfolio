@@ -1,7 +1,7 @@
 # Конспект по Markdown с практическим применением форматирования.
 
 # Предисловие
-Весь конспект скопирован из [курса по Markdown](https://stepik.org/course/253005/?search=8837213118) от [Pragmatic Programmer](https://stepik.org/users/612208117/teach). Размечен и собран лично [мной](https://github.com/St3amOne) в целях закрепления материала и практики. После прохождения получен [сертификат](https://github.com/St3amOne/Portfolio/blob/main/markdown/stepik-certificate-253005-8517191.pdf).
+Весь конспект скопирован из [курса по Markdown](https://stepik.org/course/253005/?search=8837213118) от [Pragmatic Programmer](https://stepik.org/users/612208117/teach). Размечен и собран лично [мной](https://github.com/St3amOne) в целях закрепления материала и практики. После прохождения курса получен [сертификат](https://github.com/St3amOne/Portfolio/blob/main/markdown/stepik-certificate-253005-8517191.pdf).
 
 # Содержание
 1. [Параграф](#параграф)
